@@ -1,0 +1,19 @@
+.button{
+  border-radius:50%;
+  padding :10px;
+  cursor: pointer;
+}
+
+.message{
+  background-color: azure;
+  padding: 15px;
+  border-radius: 10px;
+  width: 20%;
+}
+
+.loginPrompt{
+  background-color: red;
+  padding: 15px;
+  border-radius: 10px;
+  width: 30%;
+}
